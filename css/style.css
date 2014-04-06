@@ -18,7 +18,7 @@ html, body{
 body{
 	font-family:'PT Sans',arial,helvetica,sans-serif;
 	font-style:normal;
-	color:#ffffff;
+	color:#333333;
 	}
 
 p,ul,ol{
@@ -80,11 +80,11 @@ td{
 	}
 
 a{
-	color:#ffffff;
+	color:#0070ed;
 	text-decoration:underline;
 	}
 a:hover{
-	color:#ffffff;
+	color:#0070ed;
 	text-decoration:none;
 	cursor:pointer;
 	}
